@@ -1,0 +1,7 @@
+C:\Users\ashma\source\repos\ITDEV185\ITDEV185\bin\Debug\ITDEV185.exe.config
+C:\Users\ashma\source\repos\ITDEV185\ITDEV185\bin\Debug\ITDEV185.exe
+C:\Users\ashma\source\repos\ITDEV185\ITDEV185\bin\Debug\ITDEV185.pdb
+C:\Users\ashma\source\repos\ITDEV185\ITDEV185\obj\Debug\ITDEV185.csprojAssemblyReference.cache
+C:\Users\ashma\source\repos\ITDEV185\ITDEV185\obj\Debug\ITDEV185.csproj.CoreCompileInputs.cache
+C:\Users\ashma\source\repos\ITDEV185\ITDEV185\obj\Debug\ITDEV185.exe
+C:\Users\ashma\source\repos\ITDEV185\ITDEV185\obj\Debug\ITDEV185.pdb

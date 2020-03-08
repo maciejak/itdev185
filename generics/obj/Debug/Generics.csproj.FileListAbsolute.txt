@@ -1,0 +1,7 @@
+C:\Users\ashma\source\repos\ITDEV185\Generics\bin\Debug\Generics.exe.config
+C:\Users\ashma\source\repos\ITDEV185\Generics\bin\Debug\Generics.exe
+C:\Users\ashma\source\repos\ITDEV185\Generics\bin\Debug\Generics.pdb
+C:\Users\ashma\source\repos\ITDEV185\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\ashma\source\repos\ITDEV185\Generics\obj\Debug\Generics.exe
+C:\Users\ashma\source\repos\ITDEV185\Generics\obj\Debug\Generics.pdb
+C:\Users\ashma\source\repos\ITDEV185\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
