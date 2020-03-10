@@ -1,0 +1,7 @@
+C:\Users\ashma\source\repos\SPRING2020\ITDEV185\Iterators\bin\Debug\Iterators.exe.config
+C:\Users\ashma\source\repos\SPRING2020\ITDEV185\Iterators\bin\Debug\Iterators.exe
+C:\Users\ashma\source\repos\SPRING2020\ITDEV185\Iterators\bin\Debug\Iterators.pdb
+C:\Users\ashma\source\repos\SPRING2020\ITDEV185\Iterators\obj\Debug\Iterators.csprojAssemblyReference.cache
+C:\Users\ashma\source\repos\SPRING2020\ITDEV185\Iterators\obj\Debug\Iterators.csproj.CoreCompileInputs.cache
+C:\Users\ashma\source\repos\SPRING2020\ITDEV185\Iterators\obj\Debug\Iterators.exe
+C:\Users\ashma\source\repos\SPRING2020\ITDEV185\Iterators\obj\Debug\Iterators.pdb
